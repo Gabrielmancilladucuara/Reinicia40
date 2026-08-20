@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/ir/comprar",
+      "destination": "https://pay.hotmart.com/N107250039X?checkoutMode=2",
+      "permanent": false
+    }
+  ]
+}
